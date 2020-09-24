@@ -6,4 +6,4 @@ This protocol is being used for most of the communication between player and ser
 You will not find any server or proxy code here only the protocol structures themself.
 
 ## Used in
-CatapultServer.Proxy - TODO - Proxy server between FallGuys client and Catapult gateway and login servers, useful for datafloat analysis
+ - [CatapultServer.Proxy](https://github.com/klukule/CatapultServer.Proxy) | Proxy server between FallGuys client and Catapult gateway and login servers, useful for dataflow analysis and basic data spoofing
